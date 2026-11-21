@@ -1,6 +1,5 @@
 [app]
 # مهم: لازم يفضل هنا تحت [app] — بيثبّت نسخة python-for-android (من غيره البيلد بيفشل)
-p4a.branch = v2024.01.21
 
 title = Murshid Al-Talib
 package.name = murshidtalib
